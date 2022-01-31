@@ -1,25 +1,28 @@
 <h1 align="center">Hey 👋, My name is Winnie</h1>
 
-
-
+<p align="center">
+<img src="https://github.com/winniebosy/winniebosy-git--profile/blob/main/github-header.PNG" alt="enthusiastic black girl sitting down with a computer">
+</p>
 
 <h2 align="center">A passionate frontend developer from Nairobi, Kenya</h2>
 
-<p align ="center"> I am a frontend developer who is passionate about creating accessible technologies  </p>
+<p align ="center"> I am a frontend developer who is passionate about creating accessible technologies for everyone.<br> I enjoy challenges and working with new technologies to stretch my tenancity. </p>
 
 
 
-- 🌱 I’m currently on a deep dive with **Javascript and NodeJS**
+- 🌱 I am currently on a deep dive with **Javascript and NodeJS**.
 
-- 👯 I’m looking to collaborate on **any open sourced project**
+- 👯 I am open to collaborate on **any open sourced project**.
 
 - 📫 How to reach me **winniemagoma@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/winnysummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="winnysummer" height="30" width="40" /></a>
-<a href="https://twitter.com/winnysummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="winnysummer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/winniebosy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winniebosy" height="30" width="40" /></a>
+<h3 align="left">Connect with me :earth_africa::</h3>
+<p align="left"> Always building new things on 
+<a href="https://codepen.io/winnysummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="winnysummer-codepen" height="30" width="40" /></a></p>
+<p> Always sharing tech information particularly accessibility on 
+  <a href="https://twitter.com/winysummer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="winnysummer" height="30" width="40" /></a></p>
+<p> Sharing updates on
+  <a href="https://linkedin.com/in/winniebosy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winniebosy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
