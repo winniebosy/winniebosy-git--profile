@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, My name is Winnie</h1>
 
 <p align="center">
-<img src="https://github.com/winniebosy/winniebosy-git--profile/blob/main/github-header.PNG" alt="enthusiastic black girl sitting down with a computer">
+<img src="https://github.com/winniebosy/winniebosy-git--profile/blob/main/github-header2.PNG" alt="enthusiastic black girl sitting down with a computer">
 </p>
 
 <h2 align="center">A passionate frontend developer from Nairobi, Kenya</h2>
